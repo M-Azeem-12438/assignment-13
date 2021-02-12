@@ -1,0 +1,42 @@
+body 
+{
+    text-align: center ;
+  
+}
+.wrapper
+{ background-color: lightgreen;
+    width: 270px;
+    margin: 15px auto;
+    border-color: blue;
+    border-radius: 50px;
+   border-right-style: dashed;
+   border-left-style: dashed;
+   border-top-style: solid ;
+   border-bottom-style: solid ;
+}
+#coronaDays    
+{
+    color: red;
+}
+#seconds
+{
+    color: red;
+}
+#days
+{
+    color: red;
+}
+#arrayshowinvert
+{
+    color: red;
+}
+#result
+{color: red;}
+#year
+{color: red;}
+.css
+{color: white;
+    background-color: blue;
+    border-style: solid ridge;
+    border-radius: 5px;
+}
